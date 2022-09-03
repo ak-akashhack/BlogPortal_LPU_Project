@@ -1,0 +1,96 @@
+.container{
+    background-color: rgb(226, 226, 226);
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    margin-top: 15%;
+
+
+    font-family: Comic Sans MS;
+}
+.header1{
+    height: 45px;
+}
+.div1{
+    height: auto;
+    width: 300px;
+    float: left;
+    margin-top: 13px;
+    /* margin-left: 15px; */
+    /* font-family: Comic Sans MS; */
+    /* background-color: yellowgreen; */
+}
+.div2{
+    /* font-family: Comic Sans MS; */
+    height: 180px;
+    width: auto;    
+    /* background-color: rgb(115, 247, 233); */
+}
+.div2 li{
+    list-style: none;
+}
+.div2 ul{
+    display: flex;
+}
+.div2 li{
+    margin-left: 18px;
+    margin-top: 13px;
+}
+.div3{
+    /* background-color: red; */
+    height: 300px;
+    width: 460px;
+    float: left;
+}
+.div4{
+    /* background-color: red; */
+}
+.div4 img{
+    height: 450px;
+    width: 450px ;
+}
+.p1{
+    font-size: 40px;
+    color: rgb(37, 29, 59);
+}
+.button1{
+    background-color: rgb(255, 208, 107);
+    border-radius: 5px;
+}
+.button2{
+    border-radius: 6px;
+}
+
+.div2 button{
+    background-color: rgb(255, 208, 107);
+    border-radius: 5px
+}
+.px{
+    color:rgb(28, 26, 158);
+    
+}
+.py{
+    /* background-color: red; */
+    height: 50px;
+    width: 400px;
+    padding-left: 10px;
+    float: left;
+}
+.pz{
+    /* background-color: yellow; */
+    height: 50px;
+    width: auto;
+}
+
+.divimg{
+    background-color: red;
+    height: 50px;
+    width: 200px;
+}
+.divimg img{
+    height: 100px;
+    width: 100px;
+    margin-top: 0%;
+}
